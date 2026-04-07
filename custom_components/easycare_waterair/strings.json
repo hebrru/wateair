@@ -1,0 +1,21 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "EasyCare Waterair",
+        "description": "Connectez-vous avec vos identifiants Waterair.",
+        "data": {
+          "username": "E-mail Waterair",
+          "password": "Mot de passe Waterair"
+        }
+      }
+    },
+    "error": {
+      "cannot_connect": "Connexion impossible. Verifiez l'e-mail et le mot de passe Waterair.",
+      "unknown": "Erreur inconnue."
+    },
+    "abort": {
+      "already_configured": "EasyCare Waterair est deja configure."
+    }
+  }
+}
