@@ -1,0 +1,15 @@
+{
+  "domain": "easycare_waterair",
+  "name": "Easycare for Waterair",
+  "documentation": "https://github.com/hebrru/wateair/blob/main/README.md",
+  "issue_tracker": "https://github.com/hebrru/wateair/issues",
+  "codeowners": [
+    "@hebrru"
+  ],
+  "config_flow": true,
+  "dependencies": [],
+  "integration_type": "hub",
+  "requirements": [],
+  "version": "0.1.0",
+  "iot_class": "cloud_polling"
+}
