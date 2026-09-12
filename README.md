@@ -1,5 +1,11 @@
 # Home Assistant Custom Components : EasyCare for Waterair
 
+<p align="left"><img src="custom_components/easycare_waterair/brand/icon@2x.png" alt="Icône indépendante Easycare for Waterair" width="96" height="96"></p>
+
+> **Projet communautaire indépendant, non affilié au fabricant.** Cette icône est une création originale pour cette intégration, pas un logo officiel. Les noms des fabricants désignent uniquement les appareils compatibles.
+
+[Sources et variantes du logo](custom_components/easycare_waterair/brand/) · [Publication 0.1.1](https://github.com/hebrru/wateair/releases/tag/0.1.1)
+
 [![hacs_badge](https://img.shields.io/badge/HACS-Custom-41BDF5.svg)](https://github.com/hacs/integration)
 [![release][release-badge]][release-url]
 
